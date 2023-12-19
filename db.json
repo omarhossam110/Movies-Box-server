@@ -98,6 +98,15 @@
       "password": "Test",
       "favorites": [],
       "id": 2
+    },
+    {
+      "first_name": "Maryam",
+      "last_name": "Gamal",
+      "age": "24",
+      "email": "maryam.hagag2000@gmail.com",
+      "password": "123456789",
+      "favorites": [],
+      "id": 3
     }
   ]
 }
