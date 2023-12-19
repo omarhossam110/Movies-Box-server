@@ -98,15 +98,6 @@
       "password": "Test",
       "favorites": [],
       "id": 2
-    },
-    {
-      "first_name": "omar",
-      "last_name": "hossam",
-      "age": "22",
-      "email": "omar1235@gmail.com",
-      "password": "12345678",
-      "favorites": [],
-      "id": 3
     }
   ]
 }
